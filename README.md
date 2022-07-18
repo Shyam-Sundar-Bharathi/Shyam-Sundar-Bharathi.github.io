@@ -1,5 +1,5 @@
-## Shyam Sundar Bharathi <br />
-Hey, there. Happy to see you here. Here are some links for you. 😊 <br />
+
+# Hey, there. Happy to see you here. Here are some links for you. 😊 <br />
 [Click here to go to my website](http://shyamsundarbharathi.me/portfolio/)<br />
 [Click here to check out my app](https://play.google.com/store/apps/details?id=thelearnersdaily.wordpress.dream_calc)<br />
 [Click here to visit my YouTube channel](https://www.youtube.com/channel/UCPzsDFExFNHQ_weZiSC65tg)<br />
