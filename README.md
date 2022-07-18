@@ -8,4 +8,4 @@
 [Click here to ask me a question on Quora](https://www.quora.com/profile/Shyam-Sundar-Bharathi)<br />
 [Click here to read my blog on Wordpress](https://thelearnersdaily.wordpress.com)<br />
 [Click here to reach out to me via Email](mailto:shyamsundarbharathi@gmail.com)<br />
-# Thank you for visiting. Have a good day.<br />
+# Thank you for visiting. Have a good day. 🙏<br />
