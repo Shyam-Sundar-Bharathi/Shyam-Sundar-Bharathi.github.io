@@ -1,4 +1,4 @@
-Shyam Sundar Bharathi
+Shyam Sundar Bharathi S
 # Hello, happy to see you here. <br />
 # Below are some links for you. Email for dev collabs. 😊
 [Click here to check out my app](https://play.google.com/store/apps/details?id=thelearnersdaily.wordpress.dream_calc)<br />
@@ -11,7 +11,3 @@ Shyam Sundar Bharathi
 [Click here to reach out to me via Email](mailto:shyamsundarbharathi@gmail.com)<br />
 [Click here to go to my website](http://shyamsundarbharathi.me/PortfolioWebsite/)<br />
 # Thank you for visiting. Have a good day. 🙏<br />
-
-
-"stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
